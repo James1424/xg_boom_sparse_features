@@ -3,10 +3,10 @@
 This panel intentionally excludes rank_*, pct_*, sector_group, industry_group, theme, universe_tag, market_cap, and size_bucket.
 The model is forced to learn momentum shape, trend, pullback, volatility, volume, and QQQ regime features.
 
-Rows: 5,939
+Rows: 5,993
 Columns: 63
 Tickers: 54
-Months: 130
+Months: 131
 
 ## Model features
 - mom_1m
